@@ -1,5 +1,5 @@
 # NQueens
-N-Queens Problem in C using back-tracking with UI 
+N-Queens Problem in C using back-tracking with UI </br> 
 I'll define heuristic functions to solve faster soon
 
 ![Screenshot 2024-04-20 175205](https://github.com/Samsriddhi/NQueens/assets/154321347/8540eb32-2617-4414-98b9-772639fb6657)
